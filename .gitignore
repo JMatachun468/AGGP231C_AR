@@ -2,7 +2,11 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
+<<<<<<< HEAD
+*/[Ll]ibrary/
+=======
 /[Ll]ibrary/
+>>>>>>> parent of 92fa7c3... AR Assignment 2
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
